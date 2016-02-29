@@ -1,1 +1,1 @@
-python -m SimpleHTTPServer
+ruby app.rb -p 8000
